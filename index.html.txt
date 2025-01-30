@@ -1,10 +1,9 @@
 <<<<<<< HEAD
+nono
 no
-no
+yes
 yes
 yes
 =======
-oui
-non
->>>>>>> 30dc1e5783262b04c2b740e4ca753e6959e65c65
-encore une modif
+modif
+>>>>>>> 12f2b6b9092880dfd12334472b13be6d6b7c5933
