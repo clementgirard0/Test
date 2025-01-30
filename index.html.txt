@@ -1,9 +1,4 @@
 <<<<<<< HEAD
 no
 no
-yes
-yes
-=======
-oui
-non
->>>>>>> 30dc1e5783262b04c2b740e4ca753e6959e65c65
+
