@@ -1,4 +1,5 @@
-<<<<<<< HEAD
 no
 no
-
+yes
+yes
+yes
