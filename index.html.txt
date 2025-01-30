@@ -4,6 +4,4 @@ no
 yes
 yes
 yes
-=======
-modif
->>>>>>> 12f2b6b9092880dfd12334472b13be6d6b7c5933
+modification
